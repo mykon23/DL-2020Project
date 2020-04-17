@@ -1,0 +1,5 @@
+﻿Project Phase,Url,Notebook,Report,Section(s)
+Data preparation,https://github.com/mykon23/DL-2020Project/tree/update_sample,Equus2.ipynb,Categorizing_Equus_Members_with_Deep_Learning.pdf,"1,2"
+Build an overfitting model,https://github.com/mykon23/DL-2020Project/tree/overfit,Equus2.ipynb,Categorizing_Equus_Members_with_Deep_Learning.pdf,3
+Split and evaluate on test set,https://github.com/mykon23/DL-2020Project/tree/split_eval_test,Equus4.ipynb,Categorizing_Equus_Members_with_Deep_Learning.pdf,4
+Effects of augmentation,https://github.com/mykon23/DL-2020Project/tree/effects_of_aug,Equus5.ipynb,Effects_of_Data_Augmentation_on_Equus.pdf,All
